@@ -1,0 +1,6 @@
+.container {
+  width: 500px;
+  height: 281px;
+  display: flex;
+  justify-content: center;
+}
